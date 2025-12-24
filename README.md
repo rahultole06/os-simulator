@@ -1,5 +1,7 @@
 # Operating System Simulator
-A C-based simulation of a distributed multi-node system. 
+A C-based simulation of a distributed multi-node system.
+Built in summer of 2025.
+
 Features include: 
 - Concurrency: Simulates independent nodes using POSIX threads with synchronized logical clocks.
 - Scheduling: Implements Round Robin, Shortest Job First, and Priority-based preemptive scheduling algorithms.
